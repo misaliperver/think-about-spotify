@@ -11,5 +11,14 @@ Example of generate new cover image for album. It's a simple and extensible. It'
 Change functions and keep your funny.
 
 ## Examples of output
-[<img alt="alt_text" width="40px" src="tmp/example_basic.png" />]
-[<img alt="alt_text" width="40px" src="tmp/example_tagging.png" />]
+<img
+  src="tmp/example_basic.png"
+  alt="basic output"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 600px" />
+  
+<img
+  src="tmp/example_tagging.png"
+  alt="tagging example"
+  title="tagging example"
+  style="display: inline-block; margin: 0 auto; max-width: 600px" />
